@@ -5,5 +5,6 @@
 * tomatoes
 * lime
 * cilantro
+* peppers
 
 ### Instructions
