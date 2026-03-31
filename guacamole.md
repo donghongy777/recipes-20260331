@@ -6,5 +6,6 @@
 * lime
 * cilantro
 * peppers
+* sugar
 
 ### Instructions
